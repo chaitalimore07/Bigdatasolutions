@@ -1,7 +1,7 @@
 Q1. Why do we call Python as a general purpose and high-level programming language?
 --> Python is easy to utilize,powerful,and versatile,making it a great cull for beginners and experts kindred.
     Python readability makes it a great first programming language-it sanctions you to think like a programmer and not waste time with confusing syntax.
-    Python is great for backend web development,data analysis,artificial intelligence,and scientfic computing.
+    Python is great for backend web development,data analysis,artificial intelligence,and scientific computing.
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -75,8 +75,7 @@ Q7. What is the default datatype of the value that has been taken as an input us
 
 --------------------------------------------------------------------------------------------------------------------
 Q8. What is type casting?
---> Type casting is the method to convert the variable data type into a certain data type in order to the operation required t be
-     performed by users.or Method to convert one data type into another data type.
+--> Type casting is the method to convert the variable data type into a certain data type in order to the operation required to be performed by users.or Method to convert one data type into another data type.
 
 
 --------------------------------------------------------------------------------------------------------------------
